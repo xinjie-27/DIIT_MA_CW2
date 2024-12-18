@@ -1,2 +1,1 @@
-# DIIT_MA_CW2
-[Mobile Application] A to do list app
+This is my individual assignment for Mobile Application subject in Sunway College. It is a to do list app. I created a splash screen with mp4 video using videoView class to attract users’ attention and create menu using MenuInflater to inflate the context menu from a menu resource. I also created an array to store three colours so that every list added will display in different colours which makes the app more interesting. Moreover, ListView is created to display all the notes in an ordered manner. 
